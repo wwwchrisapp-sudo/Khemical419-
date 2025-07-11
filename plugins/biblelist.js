@@ -91,11 +91,10 @@ malvin({
         if (!m.chat) {
             return reply("❌ *An error occurred: Invalid chat.*");
         }
-
-        // Send the response with the image and Bible list
+  // Send the response with the image and Bible list
         await conn.sendMessage(m.chat, {
             image: { url: imageUrl },
-            caption: `📖 *ʙɪʙʟᴇ ʟɪꜱᴛ ʙʏ ᴘᴇᴀᴄᴇ ʜᴜʙ*:\n\n` +
+            caption: `📖 *Bible List By Peace hub*:\n\n` +
                      `Here is the complete list of books in the Bible:\n\n` +
                      bibleList.trim() // Added the Bible list text
         }, { quoted: mek });
@@ -104,3 +103,4 @@ malvin({
         reply("❌ *An error occurred while fetching the Bible list. Please try again.*");
     }
 });
+
