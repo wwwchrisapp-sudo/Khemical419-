@@ -1,13 +1,13 @@
 
 {
-  "name": "LUCKY-XD",
+  "name": "PEACE-HUB",
   "version": "0.0.6",
-  "description": "A WhatsApp Bot Created By Lucky 218",
+  "description": "A WhatsApp Bot Created By Peacemaker",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name LUCKY-XD",
-    "stop": "pm2 stop LUCKY-XD",
-    "restart": "pm2 restart LUCKY-XD"
+    "start": "pm2 start index.js --deep-monitoring --attach --name PEACE-HUB",
+    "stop": "pm2 stop PEACE-HUB",
+    "restart": "pm2 restart PEACE-HUB"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "npm:asitha-new-v99",
