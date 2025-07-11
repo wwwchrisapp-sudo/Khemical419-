@@ -10,7 +10,7 @@ SESSION_ID: process.env.SESSION_ID || "PEACE~Ai9ygLCZ#kfq67-2-_XzY85OnrTxFLHdyRN
 // add your Session Id make sure it starts with lucky~
 PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot   
-BOT_NAME: process.env.BOT_NAME || "PEACE-HUB",
+BOT_NAME: process.env.BOT_NAME || "ᴘᴇᴀᴄᴇ-ʜᴜʙ",
 // add bot name here for menu
 MODE: process.env.MODE || "public",
 // make bot public-private-inbox-group 
@@ -71,10 +71,10 @@ LINK_WHITELIST: "youtube.com,github.com",
           OWNER_NUMBER: process.env.OWNER_NUMBER || "254752818245",
 // add your bot owner number
 
-OWNER_NAME: process.env.OWNER_NAME || "peacemaker",
+OWNER_NAME: process.env.OWNER_NAME || "ᴘᴇᴀᴄᴇᴍᴀᴋᴇʀ",
 // add bot owner name
 
-              DESCRIPTION: process.env.DESCRIPTION || "* Powered By Peace hub*",
+              DESCRIPTION: process.env.DESCRIPTION || "*> 🚀 ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴘᴇᴀᴄᴇ ʜᴜʙ*",
 // add bot owner name    
 
         READ_MESSAGE: process.env.READ_MESSAGE || "false",
