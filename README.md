@@ -30,10 +30,10 @@
   <div align="center">    
     <img src="https://github.com/Devpeacemaker/PEACE-MD/blob/main/assets/techwave.gif?raw=true" width="80%"/>    
   </div>    
-    
-  <div align="center" style="margin-top: 30px;">    
-    <a href="https://peacehubvercel.vercel.app/" target="_blank">    
-      <img src="https://img.shields.io/badge/🚀 DEPLOY PEACE HUB NOW-7A3E9D?style=for-the-badge&logo=vercel&logoColor=white" alt="Deploy PEACE HUB Now" />    
-    </a>    
-  </div>    
+    <div align="center" style="margin-top: 30px;">
+  <a href="https://peacehubvercel.vercel.app/" target="_blank" style="display: inline-block; width: 90%; max-width: 400px;">
+    <img src="https://img.shields.io/badge/🚀 Deploy PEACE HUB Now-7A3E9D?style=for-the-badge&logo=vercel&logoColor=white" 
+         alt="Deploy PEACE HUB Now" 
+         style="width: 100%; height: auto; border-radius: 8px;" />
+  </a>
 </div>
