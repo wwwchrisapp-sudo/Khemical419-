@@ -1,21 +1,21 @@
 {
-  "bot-name": "LUCKY-XD",
-  "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ Lucky 218",
-  "logo": "https://files.catbox.moe/4itzeu.jpg",
+  "bot-name": "PEACE-HUB",
+  "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ PEACEMAKER",
+  "logo": "https://files.catbox.moe/yusei5.jpg",
   "keywords": ["bot"],
   "documentation-link": "https://new-session-lfgw.onrender.com/",
-    "owner-verification":"malvink003@gmail.com",
+    "owner-verification":"muuoemmanuel649@gmail.com",
   
   "env": {
     "SESSION_ID": {
-      "description": "Must Start with 'malvin~'",
+      "description": "Must Start with 'PEACE~'",
       "required": true,
       "value": ""
     },
       "BOT_NAME": {
         "description": "write here your bot name.",
         "required": true,
-        "value": "LUCKY-XD"      
+        "value": "PEACE-HUB"      
     },  
     "MODE": {
       "description": "Set private/public/inbox/groups",
@@ -32,12 +32,12 @@
     "OWNER_NAME": {
       "description": "Put Owner Name Here",
       "required": true,
-      "value": "LUCKY 218"
+      "value": "PEACEMAKER"
     },
     "OWNER_NUMBER": {
       "description": "Put only one Owner Number Here",
       "required": true,
-      "value": "256789966218"
+      "value": "254752818245"
     },
     
     "PRESENCE": {
