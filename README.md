@@ -26,12 +26,7 @@
   <p align="center">  
     <img src="https://i.imgur.com/LyHic3i.gif" width="65%" />  
   </p>  
-  
-  <p align="center" style="color:#777;font-size:13px;">  
-    <img src="https://github.com/Tomilucky218/Lucky-XD2/blob/main/assets/warning.gif?raw=true" width="15" />  
-    <em>Having connection issues? Try using a VPN.</em>  
-  </p>  
-  
+ 
   <div align="center">  
     <img src="https://github.com/Devpeacemaker/PEACE-MD/blob/main/assets/techwave.gif?raw=true" width="80%"/>  
   </div>  
